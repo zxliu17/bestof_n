@@ -1,0 +1,1163 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6700 64-bit) (preloaded format=pdflatex 2018.6.3)  5 JUL 2018 02:35
+entering extended mode
+**./Experiments.tex
+(Experiments.tex
+LaTeX2e <2018-04-01> patch level 5
+Babel <3.20> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pstricks\pstricks.
+sty"
+Package: pstricks 2018/01/06 v0.67 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\iftex\iftex.sty"
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey
+.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.st
+y"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.
+tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
+.tex"
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count92
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pstrick
+s.tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pst-fp.
+tex" `pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count93
+\pstFP@xia=\count94
+\pstFP@xib=\count95
+\pstFP@xfa=\count96
+\pstFP@xfb=\count97
+\pstFP@rega=\count98
+\pstFP@regb=\count99
+\pstFP@regs=\count100
+\pstFP@times=\count101
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common.tex"
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen113
+\pgfutil@tempdimb=\dimen114
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common-lists.tex"))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks23
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+ffor.code.tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+calc.code.tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+util.code.tex"
+\pgf@x=\dimen115
+\pgf@xa=\dimen116
+\pgf@xb=\dimen117
+\pgf@xc=\dimen118
+\pgf@y=\dimen119
+\pgf@ya=\dimen120
+\pgf@yb=\dimen121
+\pgf@yc=\dimen122
+\c@pgf@counta=\count102
+\c@pgf@countb=\count103
+\c@pgf@countc=\count104
+\c@pgf@countd=\count105
+\pgfutil@tempcnta=\count106
+\pgfutil@tempcntb=\count107
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+parser.code.tex"
+\pgfmath@dimen=\dimen123
+\pgfmath@count=\count108
+\pgfmath@box=\box28
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.code.tex"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.basic.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.trigonometric.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.random.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.comparison.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.base.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.round.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.misc.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+functions.integerarithmetics.code.tex")))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+float.code.tex"
+\c@pgfmathroundto@lastzeros=\count109
+))
+\pgffor@iter=\dimen124
+\pgffor@skip=\dimen125
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+)
+\psLoopIndex=\count110
+
+`PSTricks' v2.84  <2018/05/01> (tvz,hv)
+\pst@dima=\dimen126
+\pst@dimb=\dimen127
+\pst@dimc=\dimen128
+\pst@dimd=\dimen129
+\pst@dimg=\dimen130
+\pst@dimh=\dimen131
+\pst@dimm=\dimen132
+\pst@dimn=\dimen133
+\pst@dimo=\dimen134
+\pst@dimp=\dimen135
+\pst@hbox=\box29
+\pst@ibox=\box30
+\pst@boxg=\box31
+\pst@cnta=\count111
+\pst@cntb=\count112
+\pst@cntc=\count113
+\pst@cntd=\count114
+\pst@cntg=\count115
+\pst@cnth=\count116
+\pst@cntm=\count117
+\pst@cntn=\count118
+\pst@cnto=\count119
+\pst@cntp=\count120
+\@zero=\count121
+\pst@toks=\toks29
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pstrick
+s.con")
+\psunit=\dimen136
+\psxunit=\dimen137
+\psyunit=\dimen138
+\pst@C@@rType=\count122
+\pslinewidth=\dimen139
+\psk@startLW=\dimen140
+\psk@endLW=\dimen141
+\pst@customdefs=\toks30
+\pslinearc=\dimen142
+\pst@symbolStep=\dimen143
+\pst@symbolWidth=\dimen144
+\pst@symbolLinewidth=\dimen145
+\everypsbox=\toks31
+\psframesep=\dimen146
+\pslabelsep=\dimen147
+\sh@wgridXunit=\dimen148
+\sh@wgridYunit=\dimen149
+\pst@shift=\dimen150
+)
+File: pstricks.tex 2018/05/01 v2.84 `PSTricks' (tvz,hv)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pstricks\pst-fp.
+tex")
+File: pst-fp.tex 2018/05/01 v2.84 `PST-fp' (hv)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
+\lst@mode=\count123
+\lst@gtempboxa=\box32
+\lst@token=\toks32
+\lst@length=\count124
+\lst@currlwidth=\dimen151
+\lst@column=\count125
+\lst@pos=\count126
+\lst@lostspace=\dimen152
+\lst@width=\dimen153
+\lst@newlines=\count127
+\lst@lineno=\count128
+\lst@maxwidth=\dimen154
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count129
+\lst@skipnumbers=\count130
+\lst@framebox=\box33
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\
+tikz.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfr
+cs.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common.tex"
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen155
+\pgfutil@tempdimb=\dimen156
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-common-lists.tex"))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+futil-latex.def"
+\pgfutil@abb=\box34
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+frcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
+core.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pg
+fsys.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex")
+\pgf@x=\dimen157
+\pgf@y=\dimen158
+\pgf@xa=\dimen159
+\pgf@ya=\dimen160
+\pgf@xb=\dimen161
+\pgf@yb=\dimen162
+\pgf@xc=\dimen163
+\pgf@yc=\dimen164
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count131
+\c@pgf@countb=\count132
+\c@pgf@countc=\count133
+\c@pgf@countd=\count134
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count135
+\pgfsyssoftpath@bigbuffer@items=\count136
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
+pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex")
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen165
+\pgf@picmaxx=\dimen166
+\pgf@picminy=\dimen167
+\pgf@picmaxy=\dimen168
+\pgf@pathminx=\dimen169
+\pgf@pathmaxx=\dimen170
+\pgf@pathminy=\dimen171
+\pgf@pathmaxy=\dimen172
+\pgf@xx=\dimen173
+\pgf@xy=\dimen174
+\pgf@yx=\dimen175
+\pgf@yy=\dimen176
+\pgf@zx=\dimen177
+\pgf@zy=\dimen178
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen179
+\pgf@path@lasty=\dimen180
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen181
+\pgf@shorten@start@additional=\dimen182
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box35
+\pgf@hbox=\box36
+\pgf@layerbox@main=\box37
+\pgf@picture@serial@count=\count137
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen183
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen184
+\pgf@pt@y=\dimen185
+\pgf@pt@temp=\dimen186
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen187
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen188
+\pgf@sys@shading@range@num=\count138
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box38
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
+gfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box39
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+oduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen189
+\pgf@nodesepend=\dimen190
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
+pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgff
+or.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfk
+eys.sty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+fkeys.code.tex"))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.s
+ty"
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex"))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
+ffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
+.code.tex")
+\pgffor@iter=\dimen191
+\pgffor@skip=\dimen192
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
+flibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count139
+\pgfplotmarksize=\dimen193
+)
+\tikz@lastx=\dimen194
+\tikz@lasty=\dimen195
+\tikz@lastxsaved=\dimen196
+\tikz@lastysaved=\dimen197
+\tikzleveldistance=\dimen198
+\tikzsiblingdistance=\dimen199
+\tikz@figbox=\box40
+\tikz@figbox@bg=\box41
+\tikz@tempbox=\box42
+\tikz@tempbox@bg=\box43
+\tikztreelevel=\count140
+\tikznumberofchildren=\count141
+\tikznumberofcurrentchild=\count142
+\tikz@fig@count=\count143
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
+odulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count144
+\pgfmatrixcurrentcolumn=\count145
+\pgf@matrix@numberofcolumns=\count146
+)
+\tikz@expandcount=\count147
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks39
+\inpenc@posthook=\toks40
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
+flibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen256
+))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryautomata.code.tex"
+File: tikzlibraryautomata.code.tex 2008/07/14 v3.0.1a (rcs-revision 1.3)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1
+)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
+apes\pgflibraryshapes.multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.1a (rcs-revision 1.2)
+
+\pgfnodepartlowerbox=\box44
+\pgfnodeparttwobox=\box45
+\pgfnodepartthreebox=\box46
+\pgfnodepartfourbox=\box47
+\pgfnodeparttwentybox=\box48
+\pgfnodepartnineteenbox=\box49
+\pgfnodeparteighteenbox=\box50
+\pgfnodepartseventeenbox=\box51
+\pgfnodepartsixteenbox=\box52
+\pgfnodepartfifteenbox=\box53
+\pgfnodepartfourteenbox=\box54
+\pgfnodepartthirteenbox=\box55
+\pgfnodeparttwelvebox=\box56
+\pgfnodepartelevenbox=\box57
+\pgfnodeparttenbox=\box58
+\pgfnodepartninebox=\box59
+\pgfnodeparteightbox=\box60
+\pgfnodepartsevenbox=\box61
+\pgfnodepartsixbox=\box62
+\pgfnodepartfivebox=\box63
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
+r\tikz\libraries\tikzlibrarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+) (Experiments.aux)
+\openout1 = `Experiments.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count148
+\scratchdimen=\dimen257
+\scratchbox=\box64
+\nofMPsegments=\count149
+\nofMParguments=\count150
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count151
+\MPscratchDim=\dimen258
+\MPnumerator=\count152
+\makeMPintoPDFobject=\count153
+\everyMPtoPDFconversion=\toks42
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 672.50832pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=672.50832pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count154
+ABD: EveryShipout initializing macros
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 104.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 104.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 104.
+
+
+("C:\Users\liuzx\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 104.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 104.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 104.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 109.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 109.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 109.
+<figs/Average_pbest200_3000.pdf, id=4, 433.62pt x 289.08pt>
+File: figs/Average_pbest200_3000.pdf Graphic file (type pdf)
+<use figs/Average_pbest200_3000.pdf>
+Package pdftex.def Info: figs/Average_pbest200_3000.pdf  used on input line 112
+.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/Average_pbest_errbar200_3000.pdf, id=5, 433.62pt x 289.08pt>
+File: figs/Average_pbest_errbar200_3000.pdf Graphic file (type pdf)
+<use figs/Average_pbest_errbar200_3000.pdf>
+Package pdftex.def Info: figs/Average_pbest_errbar200_3000.pdf  used on input l
+ine 118.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/average_percentage200_3000.pdf, id=6, 433.62pt x 289.08pt>
+File: figs/average_percentage200_3000.pdf Graphic file (type pdf)
+<use figs/average_percentage200_3000.pdf>
+Package pdftex.def Info: figs/average_percentage200_3000.pdf  used on input lin
+e 124.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+
+[1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
+
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+{C:/Users/liuzx/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figs/Aver
+age_pbest200_3000.pdf>]
+<figs/average_percentage200_3000_2.pdf, id=53, 433.62pt x 289.08pt>
+File: figs/average_percentage200_3000_2.pdf Graphic file (type pdf)
+<use figs/average_percentage200_3000_2.pdf>
+Package pdftex.def Info: figs/average_percentage200_3000_2.pdf  used on input l
+ine 129.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/average_percentage200_3000_3.pdf, id=54, 433.62pt x 289.08pt>
+File: figs/average_percentage200_3000_3.pdf Graphic file (type pdf)
+<use figs/average_percentage200_3000_3.pdf>
+Package pdftex.def Info: figs/average_percentage200_3000_3.pdf  used on input l
+ine 134.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [2 <./figs/Average_pbest_errbar200_3000.pdf> <./figs/average_percentage200_300
+0.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figs/average_percentage200_3000.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
+>]
+<figs/correct_pbest200_3000.pdf, id=126, 433.62pt x 289.08pt>
+File: figs/correct_pbest200_3000.pdf Graphic file (type pdf)
+<use figs/correct_pbest200_3000.pdf>
+Package pdftex.def Info: figs/correct_pbest200_3000.pdf  used on input line 140
+.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/correct_pbest_errbar200_3000.pdf, id=127, 433.62pt x 289.08pt>
+File: figs/correct_pbest_errbar200_3000.pdf Graphic file (type pdf)
+<use figs/correct_pbest_errbar200_3000.pdf>
+Package pdftex.def Info: figs/correct_pbest_errbar200_3000.pdf  used on input l
+ine 145.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [3 <./figs/average_percentage200_3000_2.pdf> <./figs/average_percentage200_300
+0_3.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figs/average_percentage200_3000_3.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+>]
+<figs/card200_3000.pdf, id=199, 433.62pt x 289.08pt>
+File: figs/card200_3000.pdf Graphic file (type pdf)
+<use figs/card200_3000.pdf>
+Package pdftex.def Info: figs/card200_3000.pdf  used on input line 151.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figs/card_errbar200_3000.pdf, id=200, 433.62pt x 289.08pt>
+File: figs/card_errbar200_3000.pdf Graphic file (type pdf)
+<use figs/card_errbar200_3000.pdf>
+Package pdftex.def Info: figs/card_errbar200_3000.pdf  used on input line 156.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [4 <./figs/correct_pbest200_3000.pdf> <./figs/correct_pbest_errbar200_3000.pdf
+
+
+pdfTeX warning: pdflatex.exe (file ./figs/correct_pbest_errbar200_3000.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+>]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 161.
+<figsNorm1/Average_pbestnorm1_200_3000_100.pdf, id=255, 433.62pt x 289.08pt>
+File: figsNorm1/Average_pbestnorm1_200_3000_100.pdf Graphic file (type pdf)
+<use figsNorm1/Average_pbestnorm1_200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/Average_pbestnorm1_200_3000_100.pdf  used on
+ input line 167.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [5 <./figs/card200_3000.pdf> <./figs/card_errbar200_3000.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figs/card_errbar200_3000.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+>]
+<figsNorm1/Average_pbest_errbarnorm1_200_3000_100.pdf, id=314, 433.62pt x 289.0
+8pt>
+File: figsNorm1/Average_pbest_errbarnorm1_200_3000_100.pdf Graphic file (type p
+df)
+<use figsNorm1/Average_pbest_errbarnorm1_200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/Average_pbest_errbarnorm1_200_3000_100.pdf  
+used on input line 173.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/average_percentagenorm1_200_3000_100.pdf, id=315, 433.62pt x 289.08p
+t>
+File: figsNorm1/average_percentagenorm1_200_3000_100.pdf Graphic file (type pdf
+)
+<use figsNorm1/average_percentagenorm1_200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/average_percentagenorm1_200_3000_100.pdf  us
+ed on input line 179.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [6 <./figsNorm1/Average_pbestnorm1_200_3000_100.pdf>]
+<figsNorm1/Average_percentagenorm1_200_3000_100_2.pdf, id=356, 433.62pt x 289.0
+8pt>
+File: figsNorm1/Average_percentagenorm1_200_3000_100_2.pdf Graphic file (type p
+df)
+<use figsNorm1/Average_percentagenorm1_200_3000_100_2.pdf>
+Package pdftex.def Info: figsNorm1/Average_percentagenorm1_200_3000_100_2.pdf  
+used on input line 184.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/average_percentagenorm1_200_3000_100_3.pdf, id=357, 433.62pt x 289.0
+8pt>
+File: figsNorm1/average_percentagenorm1_200_3000_100_3.pdf Graphic file (type p
+df)
+<use figsNorm1/average_percentagenorm1_200_3000_100_3.pdf>
+Package pdftex.def Info: figsNorm1/average_percentagenorm1_200_3000_100_3.pdf  
+used on input line 189.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [7 <./figsNorm1/Average_pbest_errbarnorm1_200_3000_100.pdf> <./figsNorm1/avera
+ge_percentagenorm1_200_3000_100.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/average_percentagenorm1_200_3000
+_100.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
+>]
+<figsNorm1/correct_pbestnorm1_200_3000_100.pdf, id=426, 433.62pt x 289.08pt>
+File: figsNorm1/correct_pbestnorm1_200_3000_100.pdf Graphic file (type pdf)
+<use figsNorm1/correct_pbestnorm1_200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/correct_pbestnorm1_200_3000_100.pdf  used on
+ input line 195.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/correct_pbest_errbarnorm1_200_3000_100.pdf, id=427, 433.62pt x 289.0
+8pt>
+File: figsNorm1/correct_pbest_errbarnorm1_200_3000_100.pdf Graphic file (type p
+df)
+<use figsNorm1/correct_pbest_errbarnorm1_200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/correct_pbest_errbarnorm1_200_3000_100.pdf  
+used on input line 200.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [8 <./figsNorm1/Average_percentagenorm1_200_3000_100_2.pdf> <./figsNorm1/avera
+ge_percentagenorm1_200_3000_100_3.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/average_percentagenorm1_200_3000
+_100_3.pdf): PDF inclusion: multiple pdfs with page group included in a single 
+page
+>]
+<figsNorm1/cardnorm1_200_3000_100.pdf, id=498, 433.62pt x 289.08pt>
+File: figsNorm1/cardnorm1_200_3000_100.pdf Graphic file (type pdf)
+<use figsNorm1/cardnorm1_200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/cardnorm1_200_3000_100.pdf  used on input li
+ne 206.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/card_errbarnorm1_200_3000_100.pdf, id=499, 433.62pt x 289.08pt>
+File: figsNorm1/card_errbarnorm1_200_3000_100.pdf Graphic file (type pdf)
+<use figsNorm1/card_errbarnorm1_200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/card_errbarnorm1_200_3000_100.pdf  used on i
+nput line 211.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [9 <./figsNorm1/correct_pbestnorm1_200_3000_100.pdf> <./figsNorm1/correct_pbes
+t_errbarnorm1_200_3000_100.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/correct_pbest_errbarnorm1_200_30
+00_100.pdf): PDF inclusion: multiple pdfs with page group included in a single 
+page
+>]
+<figsNorm1/Average_pbestnorm1_200_3000_500.pdf, id=576, 433.62pt x 289.08pt>
+File: figsNorm1/Average_pbestnorm1_200_3000_500.pdf Graphic file (type pdf)
+<use figsNorm1/Average_pbestnorm1_200_3000_500.pdf>
+Package pdftex.def Info: figsNorm1/Average_pbestnorm1_200_3000_500.pdf  used on
+ input line 219.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [10 <./figsNorm1/cardnorm1_200_3000_100.pdf> <./figsNorm1/card_errbarnorm1_200
+_3000_100.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/card_errbarnorm1_200_3000_100.pd
+f): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figsNorm1/Average_pbest_errbarnorm1_200_3000_500.pdf, id=636, 433.62pt x 289.0
+8pt>
+File: figsNorm1/Average_pbest_errbarnorm1_200_3000_500.pdf Graphic file (type p
+df)
+<use figsNorm1/Average_pbest_errbarnorm1_200_3000_500.pdf>
+Package pdftex.def Info: figsNorm1/Average_pbest_errbarnorm1_200_3000_500.pdf  
+used on input line 225.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/average_percentagenorm1_200_3000_500.pdf, id=637, 433.62pt x 289.08p
+t>
+File: figsNorm1/average_percentagenorm1_200_3000_500.pdf Graphic file (type pdf
+)
+<use figsNorm1/average_percentagenorm1_200_3000_500.pdf>
+Package pdftex.def Info: figsNorm1/average_percentagenorm1_200_3000_500.pdf  us
+ed on input line 231.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [11 <./figsNorm1/Average_pbestnorm1_200_3000_500.pdf>]
+<figsNorm1/Average_percentagenorm1_200_3000_500_2.pdf, id=678, 433.62pt x 289.0
+8pt>
+File: figsNorm1/Average_percentagenorm1_200_3000_500_2.pdf Graphic file (type p
+df)
+<use figsNorm1/Average_percentagenorm1_200_3000_500_2.pdf>
+Package pdftex.def Info: figsNorm1/Average_percentagenorm1_200_3000_500_2.pdf  
+used on input line 236.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/average_percentagenorm1_200_3000_500_3.pdf, id=679, 433.62pt x 289.0
+8pt>
+File: figsNorm1/average_percentagenorm1_200_3000_500_3.pdf Graphic file (type p
+df)
+<use figsNorm1/average_percentagenorm1_200_3000_500_3.pdf>
+Package pdftex.def Info: figsNorm1/average_percentagenorm1_200_3000_500_3.pdf  
+used on input line 241.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [12 <./figsNorm1/Average_pbest_errbarnorm1_200_3000_500.pdf> <./figsNorm1/aver
+age_percentagenorm1_200_3000_500.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/average_percentagenorm1_200_3000
+_500.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
+ge
+>]
+<figsNorm1/correct_pbestnorm1_200_3000_500.pdf, id=757, 433.62pt x 289.08pt>
+File: figsNorm1/correct_pbestnorm1_200_3000_500.pdf Graphic file (type pdf)
+<use figsNorm1/correct_pbestnorm1_200_3000_500.pdf>
+Package pdftex.def Info: figsNorm1/correct_pbestnorm1_200_3000_500.pdf  used on
+ input line 247.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/correct_pbest_errbarnorm1_200_3000_500.pdf, id=758, 433.62pt x 289.0
+8pt>
+File: figsNorm1/correct_pbest_errbarnorm1_200_3000_500.pdf Graphic file (type p
+df)
+<use figsNorm1/correct_pbest_errbarnorm1_200_3000_500.pdf>
+Package pdftex.def Info: figsNorm1/correct_pbest_errbarnorm1_200_3000_500.pdf  
+used on input line 252.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [13 <./figsNorm1/Average_percentagenorm1_200_3000_500_2.pdf> <./figsNorm1/aver
+age_percentagenorm1_200_3000_500_3.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/average_percentagenorm1_200_3000
+_500_3.pdf): PDF inclusion: multiple pdfs with page group included in a single 
+page
+>]
+<figsNorm1/cardnorm1_200_3000_500.pdf, id=830, 433.62pt x 289.08pt>
+File: figsNorm1/cardnorm1_200_3000_500.pdf Graphic file (type pdf)
+<use figsNorm1/cardnorm1_200_3000_500.pdf>
+Package pdftex.def Info: figsNorm1/cardnorm1_200_3000_500.pdf  used on input li
+ne 258.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/card_errbarnorm1_200_3000_500.pdf, id=831, 433.62pt x 289.08pt>
+File: figsNorm1/card_errbarnorm1_200_3000_500.pdf Graphic file (type pdf)
+<use figsNorm1/card_errbarnorm1_200_3000_500.pdf>
+Package pdftex.def Info: figsNorm1/card_errbarnorm1_200_3000_500.pdf  used on i
+nput line 263.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [14 <./figsNorm1/correct_pbestnorm1_200_3000_500.pdf> <./figsNorm1/correct_pbe
+st_errbarnorm1_200_3000_500.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/correct_pbest_errbarnorm1_200_30
+00_500.pdf): PDF inclusion: multiple pdfs with page group included in a single 
+page
+>]
+<figsNorm1/Average_pbestnorm1_toss200_3000_100.pdf, id=908, 433.62pt x 289.08pt
+>
+File: figsNorm1/Average_pbestnorm1_toss200_3000_100.pdf Graphic file (type pdf)
+
+<use figsNorm1/Average_pbestnorm1_toss200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/Average_pbestnorm1_toss200_3000_100.pdf  use
+d on input line 274.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [15 <./figsNorm1/cardnorm1_200_3000_500.pdf> <./figsNorm1/card_errbarnorm1_200
+_3000_500.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/card_errbarnorm1_200_3000_500.pd
+f): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<figsNorm1/Average_pbest_errbarnorm1_toss200_3000_100.pdf, id=968, 433.62pt x 2
+89.08pt>
+File: figsNorm1/Average_pbest_errbarnorm1_toss200_3000_100.pdf Graphic file (ty
+pe pdf)
+<use figsNorm1/Average_pbest_errbarnorm1_toss200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/Average_pbest_errbarnorm1_toss200_3000_100.p
+df  used on input line 280.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/average_percentagenorm1_toss200_3000_100.pdf, id=969, 433.62pt x 289
+.08pt>
+File: figsNorm1/average_percentagenorm1_toss200_3000_100.pdf Graphic file (type
+ pdf)
+<use figsNorm1/average_percentagenorm1_toss200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/average_percentagenorm1_toss200_3000_100.pdf
+  used on input line 286.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [16 <./figsNorm1/Average_pbestnorm1_toss200_3000_100.pdf>]
+<figsNorm1/Average_percentagenorm1_toss200_3000_100_2.pdf, id=1010, 433.62pt x 
+289.08pt>
+File: figsNorm1/Average_percentagenorm1_toss200_3000_100_2.pdf Graphic file (ty
+pe pdf)
+<use figsNorm1/Average_percentagenorm1_toss200_3000_100_2.pdf>
+Package pdftex.def Info: figsNorm1/Average_percentagenorm1_toss200_3000_100_2.p
+df  used on input line 291.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/average_percentagenorm1_toss200_3000_100_3.pdf, id=1011, 433.62pt x 
+289.08pt>
+File: figsNorm1/average_percentagenorm1_toss200_3000_100_3.pdf Graphic file (ty
+pe pdf)
+<use figsNorm1/average_percentagenorm1_toss200_3000_100_3.pdf>
+Package pdftex.def Info: figsNorm1/average_percentagenorm1_toss200_3000_100_3.p
+df  used on input line 296.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [17 <./figsNorm1/Average_pbest_errbarnorm1_toss200_3000_100.pdf> <./figsNorm1/
+average_percentagenorm1_toss200_3000_100.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/average_percentagenorm1_toss200_
+3000_100.pdf): PDF inclusion: multiple pdfs with page group included in a singl
+e page
+>]
+<figsNorm1/correct_pbestnorm1_toss200_3000_100.pdf, id=1094, 433.62pt x 289.08p
+t>
+File: figsNorm1/correct_pbestnorm1_toss200_3000_100.pdf Graphic file (type pdf)
+
+<use figsNorm1/correct_pbestnorm1_toss200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/correct_pbestnorm1_toss200_3000_100.pdf  use
+d on input line 302.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+<figsNorm1/correct_pbest_errbarnorm1_toss200_3000_100.pdf, id=1095, 433.62pt x 
+289.08pt>
+File: figsNorm1/correct_pbest_errbarnorm1_toss200_3000_100.pdf Graphic file (ty
+pe pdf)
+<use figsNorm1/correct_pbest_errbarnorm1_toss200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/correct_pbest_errbarnorm1_toss200_3000_100.p
+df  used on input line 307.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [18 <./figsNorm1/Average_percentagenorm1_toss200_3000_100_2.pdf> <./figsNorm1/
+average_percentagenorm1_toss200_3000_100_3.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/average_percentagenorm1_toss200_
+3000_100_3.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+>]
+<figsNorm1/cardnorm1_toss200_3000_100.pdf, id=1166, 433.62pt x 289.08pt>
+File: figsNorm1/cardnorm1_toss200_3000_100.pdf Graphic file (type pdf)
+<use figsNorm1/cardnorm1_toss200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/cardnorm1_toss200_3000_100.pdf  used on inpu
+t line 313.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+File: figsNorm1/card_errbarnorm1_200_3000_100.pdf Graphic file (type pdf)
+<use figsNorm1/card_errbarnorm1_200_3000_100.pdf>
+Package pdftex.def Info: figsNorm1/card_errbarnorm1_200_3000_100.pdf  used on i
+nput line 318.
+(pdftex.def)             Requested size: 409.71692pt x 273.15997pt.
+ [19 <./figsNorm1/correct_pbestnorm1_toss200_3000_100.pdf> <./figsNorm1/correct
+_pbest_errbarnorm1_toss200_3000_100.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figsNorm1/correct_pbest_errbarnorm1_toss20
+0_3000_100.pdf): PDF inclusion: multiple pdfs with page group included in a sin
+gle page
+>] [20 <./figsNorm1/cardnorm1_toss200_3000_100.pdf>] (Experiments.aux) ) 
+Here is how much of TeX's memory you used:
+ 16190 strings out of 492974
+ 333848 string characters out of 3126708
+ 390561 words of memory out of 3000000
+ 19723 multiletter control sequences out of 15000+200000
+ 8501 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 54i,11n,66p,415b,326s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Use
+rs/liuzx/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb><C:/Users/liuzx/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb><C:/Users/liuzx/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/Users/liuzx/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/liuzx/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/liuzx/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/l
+iuzx/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+>
+Output written on Experiments.pdf (20 pages, 663081 bytes).
+PDF statistics:
+ 1294 PDF objects out of 1440 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
+
