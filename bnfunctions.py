@@ -46,10 +46,11 @@ def random_initialise_toss(agents_number, grid):
     agents=[set()]
     i=0
     # initialise the agents
-    while i<agents_number:
+    while i < agents_number:
         if agents[-1] != set():
              i=i+1
-             agents.append(set())
+             if i<agents_number:
+                 agents.append(set())
         num_blf = len(grid)
         k = 0
         while k < num_blf :
